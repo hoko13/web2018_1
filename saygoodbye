@@ -1,0 +1,4 @@
+function saygooddye
+ alert('Hello,Function!');
+ }
+ 
